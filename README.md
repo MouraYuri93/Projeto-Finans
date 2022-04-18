@@ -1,14 +1,22 @@
-## Resumo do projeto
+### 📚 Sobre
+
 Criação de um site fictício que oferece um software de gestão financeira.
 
-## 🔨 Funcionalidades do projeto
+### 🎨 Detalhe
+
 Apresentação da página da Finans.
 
 Nele tem algumas informações que podem servir de orientação para pessoas com dificuldadaes.
 
-## ✔️ Técnicas e tecnologias utilizadas
+Site responsivo.
 
-- ``HMTL``
-- ``CSS3``
-- ``Bootstrap 4``
-- ``Sublime Text``
+<hr>
+
+### 💻 Tecnologias utilizadas
+
+Neste site foram utilizado as seguintes tecnologias
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Sublime Text](https://www.sublimetext.com/)
